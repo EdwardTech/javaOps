@@ -1,4 +1,4 @@
-package com.javaops.bootjava.restaurantvoiting;
+package com.javaops.bootjava.restaurantvoting;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
